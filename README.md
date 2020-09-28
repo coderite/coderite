@@ -27,7 +27,9 @@
   <img width="48%" src="https://user-images.githubusercontent.com/624760/87853370-37690080-c901-11ea-8207-5ad27ce5f7b8.gif" alt="Github Swag" />
 </p>
 
-<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" /></p>
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=eddiejaoude&show_icons=true&theme=tokyonight" />
+</p>
 
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#77](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io/issues/77) in [EddieJaoudeCommunity/EddieJaoudeCommunity.github.io](https://github.com/EddieJaoudeCommunity/EddieJaoudeCommunity.github.io)
