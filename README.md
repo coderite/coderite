@@ -1,10 +1,8 @@
-![Eddie Jaoude](https://user-images.githubusercontent.com/624760/97735079-c7f2d780-1ad1-11eb-84b6-52740912a1bc.jpg)
+<!-- ![Eddie Jaoude](https://user-images.githubusercontent.com/624760/97735079-c7f2d780-1ad1-11eb-84b6-52740912a1bc.jpg) -->
 
 <p align="center">Worked in software engineering in test for more than a decade. All the while I'm busy coding my dreams. I love code and open source and want to contribute more! </p>
 
-<p align="center"><b>Part of the <a href = "https://stars.github.com/profiles"> GitHub Stars program </a></b></p>
-
-<p align="center">In recent years, I have trended on GitHub with the likes of Twitter, Facebook, Angular, etc. and was in the Top 500 open source contributors in the world. As a senior software engineer, the more I learn, the more I realize how much I still need to learn.</p>
+<p align="center">In recent years, I have started pivoting to move fulltime in coding. This includes lifelong continued learning. React/GraphQL are the latest technologies I've been deep diving in order to secure my skillset as a fullstack Javascript developer. I love the AWS stack for quick to market web app solutions.</p>
 </p>
 
 <p align="center">
