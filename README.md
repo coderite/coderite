@@ -9,7 +9,7 @@
   <img width="25%" src="https://s2.pluralsight.com/assessments/badges/javascript-224-08-2020@2x.png" />
 </p>
 
-  <p align="center">  Check out my Codewares profile!
+  <p align="center">  Check out my Codewars profile!
 </p>
 <p align="center">
 
