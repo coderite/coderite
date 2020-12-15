@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/eddiejaoude?tab=followers">
+  <a href="https://github.com/coderite?tab=followers">
     <img src="https://img.shields.io/github/followers/coderite?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
+  <img src="https://s2.pluralsight.com/assessments/badges/javascript-224-08-2020@2x.png" />
 </p>
 
 
