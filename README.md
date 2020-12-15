@@ -9,9 +9,6 @@
   <a href="https://github.com/eddiejaoude?tab=followers">
     <img src="https://img.shields.io/github/followers/coderite?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
-  <a href="http://twitter.com/eddiejaoude">
-    <img src="https://img.shields.io/twitter/follow/coderite?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
 </p>
 
 
