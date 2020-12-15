@@ -26,14 +26,3 @@
   <img width="48%" src="https://user-images.githubusercontent.com/624760/87853370-37690080-c901-11ea-8207-5ad27ce5f7b8.gif" alt="Github Swag" />
   <img src="https://www.codewars.com/users/coderite/badges/large" />
 </p>
-
-  
-
----
-
-<p align="left">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=coderite&show_icons=true&theme=tokyonight&line_height=48" />
-   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderite&count_private=true&theme=tokyonight">
-
-</p>
