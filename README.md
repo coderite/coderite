@@ -11,5 +11,8 @@
 
 
 <p align="center">
-  <img src="https://www.codewars.com/users/coderite/badges/large" />
+  Check out my Codewares profile!
+  <a href="https://www.codewars.com/users/coderite">
+    <img src="https://www.codewars.com/users/coderite/badges/large" />
+  </a>
 </p>
