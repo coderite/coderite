@@ -36,12 +36,3 @@
    <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddiejaoude&count_private=true&theme=tokyonight">
 
 </p>
-
----
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#94](https://github.com/MLH-Fellowship/batch-1-photos/pull/94) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
-2. 🎉 Merged PR [#92](https://github.com/MLH-Fellowship/batch-1-photos/pull/92) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
-3. 🎉 Merged PR [#90](https://github.com/MLH-Fellowship/batch-1-photos/pull/90) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
-4. 🎉 Merged PR [#91](https://github.com/MLH-Fellowship/batch-1-photos/pull/91) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
-5. 🗣 Commented on [#91](https://github.com/MLH-Fellowship/batch-1-photos/issues/91) in [MLH-Fellowship/batch-1-photos](https://github.com/MLH-Fellowship/batch-1-photos)
-<!--END_SECTION:activity-->
