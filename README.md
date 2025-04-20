@@ -6,9 +6,9 @@
 
 <p align="center">Spent over a decade managing software testing projects.</p>
 
-<p align="center">Develop cool side-projects in the weekend. Never stop learning!</p>
+<p align="center">I develop cool side-projects in the weekend. Never stop learning!</p>
 
 <p align="center">Python, Java, and JavaScript/TypeScript are primary focus.</p> 
 
 <p align="center">Love architecting microservices, event driven architectures, testing frameworks, implementing CI/CD pipelines, provisioning cloud services using Infrastruture as Code (Terraform).</p> 
-</p>
+
