@@ -12,16 +12,3 @@
 
 <p align="center">Love architecting microservices, event driven architectures, testing frameworks, implementing CI/CD pipelines, provisioning cloud services using Infrastruture as Code (Terraform).</p> 
 </p>
-
-<p align="center">
-  <img width="25%" src="https://s2.pluralsight.com/assessments/badges/javascript-224-08-2020@2x.png" />
-</p>
-
-  <p align="center">  Check out my Codewars profile!
-</p>
-<p align="center">
-
-  <a href="https://www.codewars.com/users/coderite">
-    <img src="https://www.codewars.com/users/coderite/badges/large" />
-  </a>
-</p>
