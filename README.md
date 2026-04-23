@@ -2,7 +2,7 @@
 
 <p align="center">Senior Software Engineer in the cyber security.</p> 
 
-<p align="center">I build cloud native pipelines and microservices.</p> 
+<p align="center">I love cloud native pipelines and microservices.</p> 
 
 <p align="center">I develop cool side-projects in the weekend. Never stop learning!</p>
 
