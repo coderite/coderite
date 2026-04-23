@@ -2,11 +2,11 @@
 
 <p align="center">Senior Software Engineer in the cyber security.</p> 
 
-<p align="center">I build cloud native pipeline and microservices.</p> 
+<p align="center">I build cloud native pipelines and microservices.</p> 
 
 <p align="center">I develop cool side-projects in the weekend. Never stop learning!</p>
 
 <p align="center">Python, Go, Java, Kotlin and JavaScript/TypeScript.</p> 
 
-<p align="center">Love architecting microservices, event driven architectures, implementing CI/CD pipelines, Infrastruture as Code (Terraform) and other shiny objects.</p> 
+<p align="center">Love architecting microservices, AWS, event driven architectures, CI/CD pipelines, Infrastruture as Code (Terraform) and other shiny objects.</p> 
 
